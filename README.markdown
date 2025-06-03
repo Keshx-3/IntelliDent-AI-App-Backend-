@@ -1,4 +1,4 @@
-# 🦷 IntelliDent AI APP
+# 🦷 🦷 IntelliDent AI - FastAPI Backend
 
 This is a dental clinic management and diagnostics platform built with FastAPI, offering user authentication, AI-driven dental scan analysis, doctor and appointment management, product catalog, and order processing.
 
